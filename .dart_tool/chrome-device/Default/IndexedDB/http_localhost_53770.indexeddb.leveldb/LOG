@@ -1,0 +1,47 @@
+2026/05/02-01:18:27.394 3a3c Reusing MANIFEST C:\Users\ablac\AppData\Local\Temp\flutter_tools.ed72bf3f\flutter_tools_chrome_device.2012358d\Default\IndexedDB\http_localhost_53770.indexeddb.leveldb/MANIFEST-000001
+2026/05/02-01:18:27.394 3a3c Recovering log #7
+2026/05/02-01:18:27.395 3a3c Reusing old log C:\Users\ablac\AppData\Local\Temp\flutter_tools.ed72bf3f\flutter_tools_chrome_device.2012358d\Default\IndexedDB\http_localhost_53770.indexeddb.leveldb/000007.log 
+2026/05/02-01:18:27.401 1a38 Level-0 table #11: started
+2026/05/02-01:18:27.403 1a38 Level-0 table #11: 928 bytes OK
+2026/05/02-01:18:27.405 1a38 Delete type=0 #7
+2026/05/02-01:18:27.408 220c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 177 : 1
+2026/05/02-01:18:27.408 220c Compacting 1@0 + 1@1 files
+2026/05/02-01:18:27.412 220c Generated table #12@0: 50 keys, 1291 bytes
+2026/05/02-01:18:27.412 220c Compacted 1@0 + 1@1 files => 1291 bytes
+2026/05/02-01:18:27.412 220c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/02-01:18:27.413 220c Delete type=2 #11
+2026/05/02-01:18:27.414 220c Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 177 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/02-01:19:41.224 1a38 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/02-01:28:51.792 1a38 Level-0 table #14: started
+2026/05/02-01:28:51.795 1a38 Level-0 table #14: 6642 bytes OK
+2026/05/02-01:28:51.796 1a38 Delete type=2 #8
+2026/05/02-01:28:51.796 1a38 Delete type=0 #10
+2026/05/02-01:28:51.797 3a3c Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 269 : 1
+2026/05/02-01:28:51.797 3a3c Compacting 1@0 + 1@1 files
+2026/05/02-01:28:51.799 3a3c Generated table #15@0: 75 keys, 1639 bytes
+2026/05/02-01:28:51.799 3a3c Compacted 1@0 + 1@1 files => 1639 bytes
+2026/05/02-01:28:51.800 3a3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/02-01:28:51.800 3a3c Delete type=2 #14
+2026/05/02-01:28:51.801 3a3c Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 269 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/02-01:34:01.672 1a38 Level-0 table #17: started
+2026/05/02-01:34:01.675 1a38 Level-0 table #17: 5418 bytes OK
+2026/05/02-01:34:01.676 1a38 Delete type=2 #12
+2026/05/02-01:34:01.676 1a38 Delete type=0 #13
+2026/05/02-01:34:01.677 1a38 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 328 : 1
+2026/05/02-01:34:01.677 1a38 Compacting 1@0 + 1@1 files
+2026/05/02-01:34:01.679 1a38 Generated table #18@0: 91 keys, 1809 bytes
+2026/05/02-01:34:01.679 1a38 Compacted 1@0 + 1@1 files => 1809 bytes
+2026/05/02-01:34:01.679 1a38 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/02-01:34:01.680 1a38 Delete type=2 #17
+2026/05/02-01:34:01.680 1a38 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 328 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/02-01:35:12.062 220c Level-0 table #20: started
+2026/05/02-01:35:12.064 220c Level-0 table #20: 5416 bytes OK
+2026/05/02-01:35:12.065 220c Delete type=2 #15
+2026/05/02-01:35:12.065 220c Delete type=0 #16
+2026/05/02-01:35:12.066 220c Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 387 : 1
+2026/05/02-01:35:12.066 220c Compacting 1@0 + 1@1 files
+2026/05/02-01:35:12.067 220c Generated table #21@0: 107 keys, 1977 bytes
+2026/05/02-01:35:12.067 220c Compacted 1@0 + 1@1 files => 1977 bytes
+2026/05/02-01:35:12.068 220c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/02-01:35:12.068 220c Delete type=2 #20
+2026/05/02-01:35:12.069 220c Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 387 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
